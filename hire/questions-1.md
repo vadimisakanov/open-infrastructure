@@ -1,42 +1,26 @@
-1. Расскажите, чем отлиwqются команды: "t.sh" ". t.sh" "/t.sh" "./t.sh" .
+1. Расскажите, чем отличаются команды: "run.sh" ". run.sh" "/run.sh" "./run.sh" .
 
 2. Клиент жалуется на проблемы в работе БД MySQL - простые запросы выполняются медленно. Опишите подробно ваши действия. 
 
-3. На сервере закончилось свободное место, навые файлы не создаются, вы зашли на сервер по SSH, ввели команду df -h и видите что место достаточно. Ваши следующие действия? 
+3. На сервере закончилось свободное место, навые файлы не создаются, но df -h показывает, что места достаточно. Ваши следующие действия? 
 
-4. Что такое virtualenv?
+4. Внезапно и очень быстро на сервере начинает заканчиваться свободное место. Что вы будете делать для диагностики проблемы?
 
-5. Кусок из конфига nginx. Что тут на первый взгляд неправильно?
-map $http_user_agent $set_ios {
-    "~*IPod"     "ios=1; path=/; Max-Age=604800";
-    "~*IPad"     "ios=1; path=/; Max-Age=604800";
-    "~*IPhone"   "ios=1; path=/; Max-Age=604800";
-}
+4. Что такое pip?
 
-map $http_user_agent $set_ios {
-    "~*Android"  "ios=1; path=/; Max-Age=604800";
-    "~*android"  "ios=1; path=/; Max-Age=604800";
-}
+5. Приведите пример конфига для nginx с использованием map для редиректа всех посетителей с user-agent 'Android', 'android', 'iOS', 'ios' с aaa.test.com на m.aaa.test.com
 
-map "$set_ios:$cookie_ios" $rewrite_ios {
-    "ios=1; path=/; Max-Age=604800:" "/errorpages/ios.html";
-}
-
-map "$set_ios:$cookie_ios" $rewrite_ios {
-    "ios=1; path=/; Max-Age=604800:" "/errorpages/android.html";
-}
-
-6. У вас есть nginx c настроенными vhosts для доменов xxx.test.com и yyy.test.com. При этом в настройках, каждого vhosts указано конкретное имя через директиву server_name. 
-В качестве бекенда php-fpm слушает на 127.0.0.1:9000.
+6. У вас есть nginx c настроенными vhosts для доменов aaa.test.com и bbb.test.com. При этом в настройках каждого nginx vhost указано конкретное имя через директиву server_name.
+В качестве бекэнда - apache на 127.0.0.1:8080.
 
 В DNS прописано
 
 *.test.com   IN   A  ip.add.re.ss
 
-Что  откроется при переходе на 
-    https://xxx.test.com
-    http://xxx.test.com
-    https://yyy.test.com
-    http://yyy.test.com
-    https://ggg.test.com
-    http://ggg.test.com
+Что  откроется при переходе на
+    https://aaa.test.com
+    http://aaa.test.com
+    https://bbb.test.com
+    http://bbb.test.com
+    https://ccc.test.com
+    http://ccc.test.com
