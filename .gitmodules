@@ -1,0 +1,3 @@
+[submodule "adidas-devops-maturity-framework"]
+	path = adidas-devops-maturity-framework
+	url = https://github.com/adidas/adidas-devops-maturity-framework
