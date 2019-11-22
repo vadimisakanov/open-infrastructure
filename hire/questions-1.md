@@ -15,12 +15,12 @@
 
 В DNS прописано
 
-*.test.com   IN   A  ip.add.re.ss
+`*.test.com   IN   A  ip.add.re.ss`
 
 Что  откроется при переходе на
-    https://aaa.test.com
-    http://aaa.test.com
-    https://bbb.test.com
-    http://bbb.test.com
-    https://ccc.test.com
-    http://ccc.test.com
+-    https://aaa.test.com
+-    http://aaa.test.com
+-    https://bbb.test.com
+-    http://bbb.test.com
+-    https://ccc.test.com
+-    http://ccc.test.com
