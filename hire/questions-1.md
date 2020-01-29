@@ -1,3 +1,7 @@
+Ops engineer first interview questions.
+
+`Credits to Southbridge.io. Thnx for some questions, guys, I've tried to customize this. If you don't like the level of customization - please tell @ vadim.isakanov@gmail.com`
+
 1. Расскажите, чем отличаются команды: "run.sh" ". run.sh" "/run.sh" "./run.sh" .
 
 2. Клиент жалуется на проблемы в работе БД MySQL - простые запросы выполняются медленно. Опишите подробно ваши действия. 
@@ -15,12 +19,12 @@
 
 В DNS прописано
 
-*.test.com   IN   A  ip.add.re.ss
+`*.test.com   IN   A  ip.add.re.ss`
 
 Что  откроется при переходе на
-    https://aaa.test.com
-    http://aaa.test.com
-    https://bbb.test.com
-    http://bbb.test.com
-    https://ccc.test.com
-    http://ccc.test.com
+-    https://aaa.test.com
+-    http://aaa.test.com
+-    https://bbb.test.com
+-    http://bbb.test.com
+-    https://ccc.test.com
+-    http://ccc.test.com
