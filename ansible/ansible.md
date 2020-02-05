@@ -34,3 +34,16 @@ tips and trics, command examples: https://ansible-tips-and-tricks.readthedocs.io
 - https://github.com/ansible/awx
 - https://docs.ansible.com/ansible/2.5/reference_appendices/tower.html
 - https://www.ansible.com/products/tower
+
+### Ansible at large scale:
+
+- https://serverfault.com/questions/620354/iptables-management-with-ansible-in-huge-environment
+- https://www.redhat.com/en/blog/adventures-ansible-lessons-learned-real-world-deployments
+- https://dzone.com/articles/running-ansible-at-scale
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout
+- https://www.ansible.com/blog/large-scale-deployments-using-ansible
+
+### Best practice:
+
+- https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/
+- https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout
