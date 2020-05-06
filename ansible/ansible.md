@@ -27,6 +27,11 @@ tips and trics, command examples: https://ansible-tips-and-tricks.readthedocs.io
 - handler https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#handlers-running-operations-on-change
 - role https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
 
+### First playbook
+
+- https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack
+- https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html
+
 ### Ansible Tower/AWX
 
 (Ansible AWX is an opensource version, Ansible Tower is a paid software by Redhat)
