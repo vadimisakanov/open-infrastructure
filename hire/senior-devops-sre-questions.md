@@ -2,6 +2,8 @@ Questions on Senior SRE/DevOps/Infrastructure engineering positions on a russian
 
 These are the questions and some answers on them collected on various interviews. Nothing company or person special.
 
+Please feel free to open pull request if you want to add anything.
+
 #### How Linux starts (linux boot sequence):
 long - https://opensource.com/article/17/2/linux-boot-and-startup
 long - https://en.wikipedia.org/wiki/Linux_startup_process
