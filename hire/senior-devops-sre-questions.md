@@ -20,7 +20,7 @@ Two options. 1) Use ELK and make a connector between Grafana and Elastic and the
 
 ####  Give soft to clients in Docker in a way so that they cannot get our code sources?
 
-#### Use KVM virtual servers with an encrypted FS and an alarm if trying to run without permission
+Use KVM virtual servers with an encrypted FS and an alarm if trying to run without permission
 
 #### Blue-green depl?
 
