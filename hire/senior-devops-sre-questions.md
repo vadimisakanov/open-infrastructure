@@ -5,9 +5,9 @@ These are the questions and some answers on them collected on various interviews
 Please feel free to open pull request if you want to add anything.
 
 #### How Linux starts (linux boot sequence):
-long - https://opensource.com/article/17/2/linux-boot-and-startup
-long - https://en.wikipedia.org/wiki/Linux_startup_process
-short - https://www.crybit.com/linux-boot-process/
+- long - https://opensource.com/article/17/2/linux-boot-and-startup
+- long - https://en.wikipedia.org/wiki/Linux_startup_process
+- short - https://www.crybit.com/linux-boot-process/
 
 #### K8S cluster autoscaler? In Yandex?
 
