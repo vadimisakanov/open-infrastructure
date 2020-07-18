@@ -2,10 +2,12 @@ Questions on Senior SRE/DevOps/Infrastructure engineering positions on a russian
 
 These are the questions and some answers on them collected on various interviews. Nothing company or person special.
 
+Please feel free to open pull request if you want to add anything.
+
 #### How Linux starts (linux boot sequence):
-long - https://opensource.com/article/17/2/linux-boot-and-startup
-long - https://en.wikipedia.org/wiki/Linux_startup_process
-short - https://www.crybit.com/linux-boot-process/
+- long - https://opensource.com/article/17/2/linux-boot-and-startup
+- long - https://en.wikipedia.org/wiki/Linux_startup_process
+- short - https://www.crybit.com/linux-boot-process/
 
 #### K8S cluster autoscaler? In Yandex?
 
@@ -18,7 +20,7 @@ Two options. 1) Use ELK and make a connector between Grafana and Elastic and the
 
 ####  Give soft to clients in Docker in a way so that they cannot get our code sources?
 
-#### Use KVM virtual servers with an encrypted FS and an alarm if trying to run without permission
+Use KVM virtual servers with an encrypted FS and an alarm if trying to run without permission
 
 #### Blue-green depl?
 
