@@ -1,9 +1,9 @@
 Basic info:
-- Book called Terraform: Up and Running https://www.terraformupandrunning.com/
+- Book called 'Terraform: Up and Running' https://www.terraformupandrunning.com/
 - https://learn.hashicorp.com
 
 Quick Start:
-- https://learn.hashicorp.com/terraform
+- https://learn.hashicorp.com/terraform (~10 hours each module)
 
 Guide with best practices from Gruntwork:
 - https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
