@@ -1,3 +1,6 @@
+# DEPRECATED FOR NOW!
+# PROJECT IS MOVED TO https://github.com/Sysadminka/open-infrastructure
+
 # open-infrastructure
 Open Infrastructure Project. Tested tools, frameworks, wikis, work rules for infrastructure.
 
