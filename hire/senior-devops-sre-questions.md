@@ -130,4 +130,10 @@ How do you make it?
 
 #### How would you take 95% percentile?
 
-#### How would you take 95% percentile in bash/python (need to write the code)?
+#### How would you take 95% percentile in bash/python (need to write the code?
+
+#### What's in /sys in Linux?
+
+/sys is another virtual directory like /proc and /dev and also contains information from devices connected to your computer.
+https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained
+
